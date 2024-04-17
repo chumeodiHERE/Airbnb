@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDjuzS6B-4kibM0X_5OedQgRrC2bC87Zus</string>
+	<key>GCM_SENDER_ID</key>
+	<string>891463346609</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hltstudio.Airbnb</string>
+	<key>PROJECT_ID</key>
+	<string>airbnb-ec0e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airbnb-ec0e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:891463346609:ios:d5918735047833d50f3590</string>
+</dict>
+</plist>
