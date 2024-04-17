@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="100" src="https://github.com/chumeodiHERE/chumeodiHERE/blob/main/img/Airbnb_Logo.png">
+  <img width="300" height="90" src="https://github.com/chumeodiHERE/chumeodiHERE/blob/main/img/Airbnb_Logo.png">
 </p>
 
 # Airbnb
@@ -24,5 +24,7 @@ This application is based on Airbnb application by Airbnb, Inc.
 
 ## Demo
 
-Insert gif or link to demo
+<p align="center">
+  <img width="250" src="https://github.com/chumeodiHERE/chumeodiHERE/blob/main/gif/demo_airbnb.gif">
+</p>
 
