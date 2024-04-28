@@ -9,9 +9,10 @@ This application is based on Airbnb application by Airbnb, Inc.
 
 ## Functions
 
-- View locations
 - Login
 - Register
+- View locations
+- View location detail
 - Add location to wishlist
 
 
